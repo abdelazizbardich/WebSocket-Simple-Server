@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "socketId": "gfQrqhgRTQHFrtqhrgR3TQRGFr",
+    "localization": {
+      "latitude": "======",
+      "longitude": "======="
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane",
+    "age": 25,
+    "city": "Paris",
+    "socketId": "gfQrqhgRTQHFrtqhrgR3TQRGFr",
+    "localization": {
+      "latitude": 48.8647,
+      "longitude": 2.3522
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bob",
+    "age": 20,
+    "city": "London",
+    "socketId": "gfQrqhgRTQHFrtqhrgR3TQRGFr",
+    "localization": {
+      "latitude": 51.5,
+      "longitude": -0.1
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mary",
+    "age": 35,
+    "city": "Tokyo",
+    "socketId": "gfQrqhgRTQHFrtqhrgR3TQRGFr",
+    "localization": {
+      "latitude": 35.6895,
+      "longitude": 139.6917
+    }
+  }
+]
